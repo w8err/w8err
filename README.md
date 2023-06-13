@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Hyee jin.
 <br><br>
-## junior game developer·game designer from South Korea :)
+## junior game developer·game designer from South Korea!
 
 <br><br>
 

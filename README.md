@@ -1,4 +1,6 @@
 <div align="center">
+  
+  <img src="https://github.com/w8err/w8err/assets/104305435/b99eb002-b3b2-4db1-b7c2-d6604d9f7fec" width="300" height="250">
 
 # Hi 👋, I'm Hyee jin.
 <br><br>

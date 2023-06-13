@@ -4,9 +4,7 @@
 <br><br>
 ## junior game developer·game designer from South Korea :)
 
-[![Insta Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/w8er__)
-![Tstory Badge](https://img.shields.io/badge/Tstory-FF5A4A?style=for-the-badge&logo=Tstory&logoColor=white)(https://w8err.tistory.com/)
-    <br><br>
+<br><br>
 
 [![Unity Badge](https://img.shields.io/badge/UNITY-828282?style=for-the-badge&logo=unity&logoColor=black)](https://unity.com)
 [![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)

@@ -2,7 +2,7 @@
   
   <img src="https://github.com/w8err/Absolute_Course_Unity/assets/104305435/a520a025-2cf1-49af-9524-92c5cb9d03d7" width="300" height="250">
 
-# Hi 👋, I'm Hyee jin.
+# Hi! I'm Hyee jin.
 <br><br>
 ## junior game developer·game designer from South Korea!
 

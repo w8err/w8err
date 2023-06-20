@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://github.com/w8err/Spring-ThymeLeaf-board/assets/104305435/d0a7bd89-6468-4f7d-86d9-4eeece8278f7" width="300" height="250">
+  <img src="https://github.com/w8err/C-Algorithm-Basic/assets/104305435/5b146b04-aec9-45d4-a6bb-1b11ee898d86">
 
 # Hi! I'm Hyee jin.
 <br><br>

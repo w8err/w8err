@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://github.com/w8err/C-Algorithm-Basic/assets/104305435/5b146b04-aec9-45d4-a6bb-1b11ee898d86">
+  <img src="https://github.com/w8err/w8err/assets/104305435/e1c7896c-b564-48ca-87a5-f1f503b6847f">
 
 # Hi! I'm Hyee jin.
 <br><br>

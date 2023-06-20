@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://github.com/w8err/Absolute_Course_Unity/assets/104305435/a520a025-2cf1-49af-9524-92c5cb9d03d7" width="300" height="250">
+  <img src="https://github.com/w8err/Spring-ThymeLeaf-board/assets/104305435/d0a7bd89-6468-4f7d-86d9-4eeece8278f7" width="300" height="250">
 
 # Hi! I'm Hyee jin.
 <br><br>

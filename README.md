@@ -1,6 +1,5 @@
 <div align="center">
   
-  <img src="https://github.com/w8err/w8err/assets/104305435/e1c7896c-b564-48ca-87a5-f1f503b6847f">
 
 # Hi! I'm Hyee jin.
 <br><br>

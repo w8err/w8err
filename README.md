@@ -1,7 +1,7 @@
 <div align="center">
   
 
-# Hi! I'm Hyee jin.
+# Hi! I'm Hwi jin.
 <br><br>
 ## junior game developer·game designer from South Korea!
 
